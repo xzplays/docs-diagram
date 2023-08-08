@@ -16,7 +16,7 @@ const locale = {
     exportData: "Export Data",
     importData: "Import Data",
     resetChanges: "Reset Changes",
-    autoLayout: "Auto Layout",,
+    autoLayout: "Auto Layout",
 	orthogonal: "Orthogonal", // added in v5.0
 	radial: "Radial", // added in v5.0
 
@@ -72,7 +72,7 @@ const locale = {
 	menuAlignChildrenHorizontally: "Align children horizontally",
 
     imageUpload: "Click to upload",
-    emptyState: "Select a shape or a connector"
+    emptyState: "Select a shape or a connector",
 	
 	 // the following locale options were added in v5.0
 	alignHorizontalLeft: "Align left",
